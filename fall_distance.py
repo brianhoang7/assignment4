@@ -1,6 +1,6 @@
 # Author: Brian Hoang
 # Date: 10/23/2019
-# Description: Asks user for falling time of object and outputs the distance object fell in meters.
+# Description: function that returns distance formula with time and gravity agrument.
 
 #define fall distance function
 def fall_distance(g,t):
